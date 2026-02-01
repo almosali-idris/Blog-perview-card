@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS?tab=report)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-a-blog-perview-card-using-html-and-css-COj3-pAZdu)
 - Live Site URL: [Github Pages](https://almosali-idris.github.io/Blog-perview-card/)
 
 ## My process
