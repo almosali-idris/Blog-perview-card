@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS?tab=report)
 - Live Site URL: [Github Pages](https://almosali-idris.github.io/Blog-perview-card/)
 
 ## My process
